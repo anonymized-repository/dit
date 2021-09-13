@@ -1,0 +1,8 @@
+/target
+*.pgp
+*.gpg
+*.lock
+*.json
+*.txt*
+.dit/
+
